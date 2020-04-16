@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is A8DA-8046
+
+ Directory of C:\Users\vargheal\Documents\Python\Alien_Invasion
+
+04/16/2020  07:17 PM    <DIR>          .
+04/16/2020  07:17 PM    <DIR>          ..
+04/16/2020  07:17 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  90,251,599,872 bytes free
